@@ -1,1 +1,1 @@
-# Magnate-Desktop-Releases
+# Magnate-Desktop-Releases check
