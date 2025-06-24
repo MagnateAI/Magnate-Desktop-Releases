@@ -1,2 +1,2 @@
 # Magnate-Desktop-Releases 
-- V1.2.22 `latest`
+- V1.2.27 `latest`
